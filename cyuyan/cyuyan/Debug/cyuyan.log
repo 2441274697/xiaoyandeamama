@@ -1,0 +1,11 @@
+﻿生成启动时间为 2021/6/6 18:08:24。
+     1>项目“D:\小颜的脑袋呀\Cyuyan  study\cyuyan\cyuyan\cyuyan.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "6 5.c"
+         6 5.c
+     1>d:\小颜的脑袋呀\cyuyan  study\cyuyan\cyuyan\6 5.c(14): error C2137: 空字符常量
+     1>已完成生成项目“D:\小颜的脑袋呀\Cyuyan  study\cyuyan\cyuyan\cyuyan.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.17
